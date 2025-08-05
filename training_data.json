@@ -4,52 +4,15 @@
 }
 {
     "prompt": "What are the recommendetions for HIV testing?",
-    "completion": "HIV testing services should be offered to all clients with unknown HIV status at every point of 
-contact in the health facility and community settings. The HIV testing screening tool will be used to determine how often a client with a previous HIV
-negative result will need to be re-tested for HIV. Client-initiated HIV testing services and provider-initiated HIV testing services are two 
-approaches to be used at the entry point to HIV prevention, care, and treatment services. Targeted testing, including index testing (testing the family members and sexual partners of 
-people diagnosed with HIV) and social network testing (testing the sexual partners and peers of 
-HIV-positive key populations), are the preferred methods of testing. To encourage contacts of index clients with unknown HIV status to be tested, every HIV-positive 
-client will be given information on client notification options, either through passive referral or 
-assisted HIV partner notification services. HIV Self-test kits/Oraquick can be distributed at the health facility level and performed privately 
-in the client’s home or facilitated by a healthcare worker in a private setting at a health facility. 
-The age of consent for HIVST is 16 years. All HIV tests conducted must follow the National HIV Testing Algorithm for children and adults. 
-Referral and linkages to prevention or care and treatment services should be provided to both 
-negative and positive clients, respectively.Rapid tests (Determine™ and UniGold™) are antibody tests that can be used to definitively 
-diagnose adults and children aged 18 months or older. DNA PCR is used to diagnose children 
-less than 18 months of age and for inconclusive results according to the National HIV Testing 
-Algorithm. Retesting for verification - all clients with positive HIV results presenting for ART initiation 
-should be re-tested, with a second specimen, preferably with a different tester, before ART 
-initiation. DNA PCR has replaced Clearview tests as the tie breaker for inconclusive results when testing 
-for HIV. "
+    "completion": "HIV testing services should be offered to all clients with unknown HIV status at every point of contact in the health facility and community settings. The HIV testing screening tool will be used to determine how often a client with a previous HIV negative result will need to be re-tested for HIV. Client-initiated HIV testing services and provider-initiated HIV testing services are two approaches to be used at the entry point to HIV prevention, care, and treatment services. Targeted testing, including index testing (testing the family members and sexual partners of people diagnosed with HIV) and social network testing (testing the sexual partners and peers of HIV-positive key populations), are the preferred methods of testing. To encourage contacts of index clients with unknown HIV status to be tested, every HIV-positive client will be given information on client notification options, either through passive referral or assisted HIV partner notification services. HIV Self-test kits/Oraquick can be distributed at the health facility level and performed privately in the client's home or facilitated by a healthcare worker in a private setting at a health facility. The age of consent for HIVST is 16 years. All HIV tests conducted must follow the National HIV Testing Algorithm for children and adults. Referral and linkages to prevention or care and treatment services should be provided to both negative and positive clients, respectively.Rapid tests (Determine™ and UniGold™) are antibody tests that can be used to definitively diagnose adults and children aged 18 months or older. DNA PCR is used to diagnose children less than 18 months of age and for inconclusive results according to the National HIV Testing Algorithm. Retesting for verification - all clients with positive HIV results presenting for ART initiation should be re-tested, with a second specimen, preferably with a different tester, before ART initiation. DNA PCR has replaced Clearview tests as the tie breaker for inconclusive results when testing for HIV. "
 }
 {
-    "prompt": " What are the HIV guideline recommendations for Referral and linkages?",
-    "completion": "All clients testing HIV positive must be proactively linked (escort client or set an appointment) 
-for ART initiation.  Health care worker who identifies the HIV-positive client should ensure linkage of the client.  All clients with positive HIV results presenting for ART initiation should be re-tested before they 
-are initiated on ART preferably by a different tester. All people living with HIV are eligible to start ART regardless of CD4 count or WHO staging to 
-promote early ART initiation. Newly diagnosed HIV clients should be checked in the CMIS if they are genuinely new positive 
-before they are linked for treatment. All clients newly initiated on ART must be enrolled on enhanced counselling to support their 
-adherence and retention. All clients found to be returning to care must be linked back to care as indicated in the extended 
-LCM SOP. All clients testing HIV-negative should be linked to combination HIV prevention services. Combination HIV prevention is an approach that seeks to achieve maximum impact on 
-preventing new HIV infections. Bidirectional communication between facilities and communities is important to improve HIV 
-linkages either to prevention or care and treatment. Active tracing of clients who have disengaged from care must be routinely done for all clients."
+    "prompt": "What are the HIV guideline recommendations for Referral and linkages?",
+    "completion": "All clients testing HIV positive must be proactively linked (escort client or set an appointment) for ART initiation.  Health care worker who identifies the HIV-positive client should ensure linkage of the client.  All clients with positive HIV results presenting for ART initiation should be re-tested before they are initiated on ART preferably by a different tester. All people living with HIV are eligible to start ART regardless of CD4 count or WHO staging to promote early ART initiation. Newly diagnosed HIV clients should be checked in the CMIS if they are genuinely new positive before they are linked for treatment. All clients newly initiated on ART must be enrolled on enhanced counselling to support their adherence and retention. All clients found to be returning to care must be linked back to care as indicated in the extended LCM SOP. All clients testing HIV-negative should be linked to combination HIV prevention services. Combination HIV prevention is an approach that seeks to achieve maximum impact on preventing new HIV infections. Bidirectional communication between facilities and communities is important to improve HIV linkages either to prevention or care and treatment. Active tracing of clients who have disengaged from care must be routinely done for all clients."
 }
 {
     "prompt": "What is the basic care package for HIV positive individuals?",
-    "completion": "ART initiation may be offered in the community for clients who have mild or moderate 
-immunosuppression and no current or previous history of clinical, immunologic or virologic 
-treatment failure. For clients who initiate ART with a baseline CD4 count >350cell/mm³, and show good clinical 
-response, there is no value added by doing a follow-up CD4 count at 6 months. For clients who initiate ART with a CD4 count <350cell/mm³, CD4 monitoring should be done by 
-6 months and 12 months after ART initiation. Once the client has 2 consecutive undetectable 
-viral loads, CD4 monitoring can be stopped. If treatment failure is suspected, resume CD4 
-monitoring until the client has an undetectable viral load. After one year on ART, clinically well adult clients can receive ART refills every 3-6 months, and 
-clinical assessments every 6 months. Children who have been receiving ART for more than one year and are established on ART, and 
-older than 2 years should not be considered to have AHD and are eligible for MMD. The basic HIV chronic care package includes routine screening and management of non
-communicable diseases, mental health and palliative care services as well as assessment of and 
-offering of COVID-19 vaccination. Less intensive (up to 3MMD) differentiated service delivery may also be offered to children at 
-least 2 years of age, pregnant and breastfeeding women, clients with controlled comorbidities 
-and key population."
+    "completion": "ART initiation may be offered in the community for clients who have mild or moderate immunosuppression and no current or previous history of clinical, immunologic or virologic treatment failure. For clients who initiate ART with a baseline CD4 count >350cell/mm³, and show good clinical response, there is no value added by doing a follow-up CD4 count at 6 months. For clients who initiate ART with a CD4 count <350cell/mm³, CD4 monitoring should be done by 6 months and 12 months after ART initiation. Once the client has 2 consecutive undetectable viral loads, CD4 monitoring can be stopped. If treatment failure is suspected, resume CD4 monitoring until the client has an undetectable viral load. After one year on ART, clinically well adult clients can receive ART refills every 3-6 months, and clinical assessments every 6 months. Children who have been receiving ART for more than one year and are established on ART, and older than 2 years should not be considered to have AHD and are eligible for MMD. The basic HIV chronic care package includes routine screening and management of non-communicable diseases, mental health and palliative care services as well as assessment of and offering of COVID-19 vaccination. Less intensive (up to 3MMD) differentiated service delivery may also be offered to children at least 2 years of age, pregnant and breastfeeding women, clients with controlled comorbidities and key population."
 }
 {
     "prompt": "What does the abbreviation PLHIV stand for?",
@@ -57,19 +20,15 @@ and key population."
 }
 {
     "prompt": "When should TB screening be done for people living with HIV?",
-    "completion": "TB screening should be done for all PLHIV at every health care visit of contact with a healthcare 
-worker using the national recommended 4 symptom TB screening tool including children and 
-adolescents. Presumptive TB is defined as a patient reporting any one of the TB for symptoms."
+    "completion": "TB screening should be done for all PLHIV at every health care visit of contact with a healthcare worker using the national recommended 4 symptom TB screening tool including children and adolescents. Presumptive TB is defined as a patient reporting any one of the TB for symptoms."
 }
 {
     "prompt": "What should one do if they have a newly diagnosed HIV positive patient symptomatic of TB.",
-    "completion": "For PLHIV with presumptive TB, offer rapid ART initiation while rapidly investigating for TB, with 
-close follow-up within 7 days to initiate TB treatment if TB is confirmed. "
+    "completion": "For PLHIV with presumptive TB, offer rapid ART initiation while rapidly investigating for TB, with close follow-up within 7 days to initiate TB treatment if TB is confirmed. "
 }
 {
     "prompt": "What is the recommended TB test?",
-    "completion": "X-pert MTB/RIF is a recommended TB diagnostic test and TB LF LAM is recommended diagnostic 
-TB test for selected groups among PLHIV."
+    "completion": "X-pert MTB/RIF is a recommended TB diagnostic test and TB LF LAM is recommended diagnostic TB test for selected groups among PLHIV."
 }
 {
     "prompt": "What is the role of C-reactive protein in TB screening?", 
@@ -81,8 +40,7 @@ TB test for selected groups among PLHIV."
 }
 {
     "prompt": "Can rifepentine/Isoniazid be used for TB preventive therapy?", 
-    "completion": "3 months of Rifapentine/Isoniazid (3HP) is the recommended TPT option except in pregnant 
-and lactating women and children."
+    "completion": "3 months of Rifapentine/Isoniazid (3HP) is the recommended TPT option except in pregnant and lactating women and children."
 }
 {
     "prompt": "When should Antiretroviral Therapy (ART) be delayed?",
@@ -90,20 +48,15 @@ and lactating women and children."
 }
 {
     "prompt": "When can patients with TB and HIV be started on Antiretroviral Therapy (ART)?",
-    "completion": "For TB patients other than TB meningitis, who are diagnosed with HIV, ART initiation should be 
-started as soon as possible, preferably within 14 days of initiating TB treatment. "
+    "completion": "For TB patients other than TB meningitis, who are diagnosed with HIV, ART initiation should be started as soon as possible, preferably within 14 days of initiating TB treatment. "
 }
 {
     "prompt": "Who should be screened for cryptococcal antigemia?",
-    "completion": "Advanced HIV disease patients with CD4 cell counts < 100 cells/mm³ should be screened for Cryptococcal 
-Antigenemia "
+    "completion": "Advanced HIV disease patients with CD4 cell counts < 100 cells/mm³ should be screened for Cryptococcal Antigenemia "
 }
 {
     "prompt": "What is advanced HIV disease in children?",
-    "completion": "All children younger than 5 years who are not already receiving ART and clinically stable) are 
-considered to have advanced HIV disease. Children who have been receiving ART for more than 
-one year and are established on ART, and older than 2 years should not be considered to have 
-AHD and are eligible for MMD."
+    "completion": "All children younger than 5 years who are not already receiving ART and clinically stable) are considered to have advanced HIV disease. Children who have been receiving ART for more than one year and are established on ART, and older than 2 years should not be considered to have AHD and are eligible for MMD."
 }
 {
     "prompt": "What is recommended test for cryptococcal meningitis",
@@ -111,19 +64,53 @@ AHD and are eligible for MMD."
 }
 {
     "prompt": "Can single dose liposomal amphotericin B be used in the induction phase of cryptococcal meningitis treatment?",
-    "completion": "Single dose Liposomal Amphotericin B is recommended for the induction phase of cryptococcal 
-meningitis treatment "
+    "completion": "Single dose Liposomal Amphotericin B is recommended for the induction phase of cryptococcal meningitis treatment "
 }
 {
     "prompt": "Should patients with advanced HIV be screened for histoplamosis?",
-    "completion": "Histoplasmosis screening and treatment are recommended for patients with AHD and 
-symptomatic histoplasmosis."
+    "completion": "Histoplasmosis screening and treatment are recommended for patients with Advanced HIV disease and symptomatic histoplasmosis."
 }
 {
     "prompt": "When should Fluconazole prophylaxis be stopped?",
-    "completion": "Fluconazole prophylaxis may be discontinued after 12 months of antifungals once the CD4 count 
-is >100 cells/mm³ and virally suppressed"
+    "completion": "Fluconazole prophylaxis may be discontinued after 12 months of antifungals once the CD4 count is >100 cells/mm³ and virally suppressed"
 }
 {
-    
+    "prompt": "Can ART (Anti-retroviral treatment) be initiated in the community?",
+    "completion": "ART may be initiated in the community for clinically well clients who are willing to follow up at a health facility of their choice."
+}
+{
+    "prompt": "Where can Anti-retroviral treatment be initiated?",
+    "completion": "ART should be (re)initiated from the entry point where the patient tests positive followed by referral to the ART clinic for ongoing management follow-up."
+}
+{
+    "prompt": "What test or investigations should be done at ART (Anti-retroviral treatment) initiation?", 
+    "completion": "Baseline Random blood sugar, Height, Weight, BMI, and screening for NCD family history are required for all patients initiating ART "
+}
+{
+    "prompt": "What are valid reasons for delaying ART (anti-retroviral therapy?",
+    "completion": "Delay ART initiation for PLHIV with TB meningitis, Cryptococcal meningitis."
+}
+{
+    "prompt": "What else should be monitored after ART (Anti-retroviral therapy)?",
+    "completion": "Clients initiating ART and at high risk of metabolic complications should be routinely monitored for metabolic adverse drug reactions."
+}
+{
+    "prompt": "When should patients on dialysis take prescribed ART (anti-retrovial therapy)?",
+    "completion": "For patients on haemodialysis, the ART prescribed should be taken after a dialysis session. "
+}
+{
+    "prompt": "Should Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTI) be used for ART initiation",
+    "completion": "Due to high pre-treatment NNRTI resistance in Eswatini, ART initiation on NNRTI-based regimens should be used as a last resort, particularly in treatment-experienced patients "
+}
+{
+    "prompt": "What should be the management of ART patients on NNRTI-based regiment. ",
+    "completion": "Clients on an NNRTI-based regimen should be transitioned to a DTG-based regimen. Transition can occur regardless of VL, however, take note of viremia for future reference and to ensure adherence issues are addressed while switching "
+}
+{
+    "prompt": "When can Point of Care (POC) viral load testing be done?", 
+    "completion": "Point of care(POC) viral load testing may be done for ART patients who need expedited decision making."
+}
+{
+    "prompt": "In which patients can Point of care viral load testing be done?",
+    "completion": "Point-of-care (POC) viral load testing may be used to monitor treatment among PL HIV receiving ART. POC VL testing allows for more rapid clinical decision-making in populations at risk who need prompt decision making e.g. 1. Pregnant and breastfeeding women  2. Infants, children, and adolescents. 3. People requiring a repeat viral load after a first elevated viral load to enable a rapid switch to a second- or third-line ART regimen 4. People for whom treatment failure is suspected 5. People presenting sick, living with advanced HIV disease, or having a known opportunistic infection (TB, cryptococcal infection, etc.) 6. First scheduled viral load test for people re-engaging into care to assess the level of immune injury and a risk of disease progression 7.PLHIV suspected to be failing ART while on DTG for less than two years 8. For female clients, cervical cancer screening should also be done at the time of VL testing; at least once every year"
 }
