@@ -114,3 +114,175 @@
     "prompt": "In which patients can Point of care viral load testing be done?",
     "completion": "Point-of-care (POC) viral load testing may be used to monitor treatment among PL HIV receiving ART. POC VL testing allows for more rapid clinical decision-making in populations at risk who need prompt decision making e.g. 1. Pregnant and breastfeeding women  2. Infants, children, and adolescents. 3. People requiring a repeat viral load after a first elevated viral load to enable a rapid switch to a second- or third-line ART regimen 4. People for whom treatment failure is suspected 5. People presenting sick, living with advanced HIV disease, or having a known opportunistic infection (TB, cryptococcal infection, etc.) 6. First scheduled viral load test for people re-engaging into care to assess the level of immune injury and a risk of disease progression 7.PLHIV suspected to be failing ART while on DTG for less than two years 8. For female clients, cervical cancer screening should also be done at the time of VL testing; at least once every year"
 }
+{
+    "prompt": "When should HIV viral load be monitored?",
+    "completion": "VL should be measured by 6 months after ART initiation to confirm virologic response to ART. After 2 consecutive suppressed VL results taken at least 6 months apart, VL monitoring can be done annually and patient-guided into a DSD model of their choice. "
+}
+{
+    "prompt": "What should be the management of high VL (viral load) in a patient on NNRTI?",
+    "completion": "Receipt of a high VL test result in a patient on an NNRTI-based regimen should trigger an immediate regimen switch while undergoing SUAC. Clients should be called to come to the facility within the next 7 days to begin SUAC."
+}
+{
+    "prompt": "What is Viralogical failure?",
+    "completion": "Two consecutive viral load test results above ≥1000 copies/mL taken three months apart is virological failure when using plasma or dried blood spot specimens. "
+}
+{
+    "prompt": "Should patients be kept on a failing regiment?", 
+    "completion": "Do not keep patients on a failing regimen for a long time without appropriate action "
+}
+{
+    "prompt": "How should regiment switching to second or third line be done?",
+    "completion": "Regimen switch to  the second or third line should be done through a multidisciplinary approach"
+}
+{
+    "prompt": "When should Dry Blood Spot Viral load (DBS VL) be used?",
+    "completion": "Use of DBS VL for clients presenting outside of normal phlebotomy hours and in children "
+}
+{
+    "prompt": "What is one of the ways that viral resistance can done?",
+    "completion": "Remnant blood samples of all clients with high viral load may be stored to be used for surveillance purposes to guide program and policy changes. "
+}
+{
+    "prompt": "Who should be involved in the management of patients with poor adherence?",
+    "completion": "Engagement of social workers, psychologists and psychiatry nurses for clients with identified poor adherence"
+}
+{
+    "prompt": "Who qualifies to have HIV drug resistance testing (genotyping)?",
+    "completion": "HIV drug resistance testing (genotype) should be requested for all clients with two consecutive viral load results above 1000copies/ml, while on drug-sensitive TB treatment during second-line treatment, or while taking a 2nd line regimen or while taking a DTG-based ART first- or second-line regimen  "
+}
+{
+    "prompt": "What is the third line committe contact details?",
+    "completion": "Contact email for HIVDR support changed to:snapthirdline@mohcoag.org."
+}
+{
+    "prompt": "What is the contact for genotype testing?",
+    "completion": "Contact email for HIVDR support changed to:snapthirdline@mohcoag.org."
+}
+{
+    "prompt": "What is the contact for HIV drug resistance testing?",
+    "completion": "Contact email for HIVDR support changed to:snapthirdline@mohcoag.org."
+}
+{
+    "prompt": "Which are some of the patients that need to be managed by a doctor?",
+    "completion": "Patients with renal insufficiency, active viral hepatitis and on a third-line regimen should be managed at a doctor managed ART clinic "
+}
+{
+    "prompt": "What are the options that should be given to HIV negative women that are pregnant or lactating?",
+    "completion": "As part of efforts to achieve the elimination of MTCT (eMTCT), all HIV-negative pregnant and lactating women should be offered PrEP using the OPT OUT approach "
+}
+{
+    "prompt": "When should HIV negative pregnant women be retested?",
+    "completion": "Pregnant women on PrEP should be retested according to the PrEP retesting schedule. All HIV-negative pregnant women not on PrEP should be re-tested every 2 months (aligned with the ANC scheduled visits) with the most optimal time point for retesting during the third trimester visit (34 weeks Gestation). "
+}
+{
+    "prompt": "When should lactating women be retested?", 
+    "completion": " All HIV-negative lactating women should be re-tested at 6 weeks, 14 weeks, 6 months, 9 months, 12 months, 15 months and 18 months aligned with the mother-baby pair (MBP) sschedule."
+}
+{
+    "prompt": "What should be the action taken for pregnant women with inconclusive HIV test results?", 
+    "completion": "For pregnant women with inconclusive results after HTS; conduct Nucleic Acid Amplification Tests (NAAT) and initiate ART immediately while waiting for NAAT results "
+}
+{
+    "prompt": "What should happen to women on DSD models?",
+    "completion": "Virally suppressed mothers enrolled in a DSD model may continue to do so provided that all VLs are done on time (First ANC and 34 weeks). "
+}
+{
+    "prompt": "What is the viral load monitoring schedule for pregnant and lactating women newly initiated on ART?",
+    "completion": "All newly initiated ART clients should receive the first viral load test 3 months after starting ART and thereafter align with the ANC VL schedule. If the next VL test date falls after delivery, then align with PNC/MBP VL schedule. "
+}
+{
+    "prompt": "What is the viral load monitoring schedule for pregnant and lactating women already on ART?", 
+    "completion": "Women on ART enrolling for ANC should receive a viral load test on their first ANC contact. A subsequent viral load test should be conducted at 34 weeks of gestation. "
+}
+{
+    "prompt": "What is the viral load monitoring for lactating women?",
+    "completion": "VL testing is compulsory for all women on ART at 6 weeks post-delivery regardless of the previous viral load date. Subsequent VL tests during lactation are done every 6 months until the cessation of breastfeeding."
+}
+{
+    "prompt": "When should HIV-exposed infants be tested for HIV?",
+    "completion": "All HIV-exposed infants must be tested using DNA PCR at birth (0-3 days post-delivery) "
+}
+{
+    "prompt": "For which infants that are HIV-exposed should you consult expert advise?",
+    "completion": "For all HIV exposed infants whose mothers are on a 2nd and 3rd line regimen, Baylor should be consulted to guide appropriate infant prophylaxis. This should be planned during the antenatal period "
+}
+{
+    "prompt": "What actions should be taken for pregnant and breastfeeding women on first line ART and with a detectable viral load?",
+    "completion": "Any HIV positive pregnant and breastfeeding women with a detectable viral load at contact requires URGENT intervention. First line with a high VL while on a non-DTG-based regimen should have an expedited switch to 2nd line DTG-based regimen on the same day "
+}
+{
+    "prompt": "What actions should be taken for pregnant and breastfeeding women on second line ART and with a detectable viral load?",
+    "completion": "Any HIV positive pregnant and breastfeeding women with a detectable viral load at contact requires URGENT intervention. 2nd line clients with a high VL should have a genotype sent on the same day and then be placed on a 3rd line holding regimen while awaiting further guidance from the HIVDR committee: snapthirdline@mohcoag.org "
+}
+{
+    "prompt": "When should ART  initiation be done in children?",
+    "completion": "All HIV-infected children and adolescents are eligible for rapid ART initiation regardless of CD4 count or WHO clinical stage. "
+}
+{
+    "prompt": "What should be done before ART initiation in children?",
+    "completion": "All children, adolescents and caregivers should be well-prepared for ART to ensure good adherence and treatment success. "
+}
+{
+    "prompt": "What is the ideal first line regiment in children?",
+    "completion": "TDF+3TC+DTG (TLD) is the preferred first-line regimen for all adolescents weighing at least 30 kg. "
+}
+{
+    "prompt": "Who should be prioritezed for ART initiation?",
+    "completion": "Prioritize assessment and rapid ART initiation in children and adolescents with advanced imunodeficiency as soon as possible (within 7 days) from the day of HIV diagnosis."
+}
+{
+    "prompt": "What test should children older 10 years recive if they have advanced HIV disease?",
+    "completion": "Paediatric >10 years of age and adolescent clients with advanced immune deficiency should be screened for cryptococcal meningitis using a serum Cryptococcal antigen (CrAg) test and TB presumptive adolescents and children should receive an LF TB-LAM test. "
+}
+{
+    "prompt": "When should the first viral load be done for children and adolescents living with HIV (CALHIV)?",
+    "completion": "To expedite the decision-making in CALHIV, the first viral load test should be done 3 months after initiating ART then 6monthly thereafter "
+}
+{
+    "prompt": "Which children should receive stepped-up adherence counseling (SUAC)?",
+    "completion": "Children and adolescents with a VL > 50 copies/mL should be referred for stepped–up adherence counselling. "
+}
+{
+    "prompt": "What is the threshold for to determine virological failure?",
+    "completion": "A viral load threshold of ≥1000 copies/mL should be used to determine virological failure when using plasma or dried blood spot specimens."
+}
+{
+    "prompt": "What is the prefered second line?", 
+    "completion": "For second-line ART regimens, Atazanavir (ATV/r) is preferred over LPV/r due to its reduced pill burden"
+}
+{
+    "prompt": "What is the preferred ART third line regiment?",
+    "completion": "Third-line ART: Each child or adolescent should receive individualized treatment regimens based on ART history, and previous episodes of viraemia/HIV resistance testing/ genotyping results if second-line ART failure is confirmed. "
+}
+{
+    "prompt": "Who should be transitioned to adult care?",
+    "completion": "Adolescents aged 17 to 19 years of age should be successfully transitioned to adult care."
+}
+{
+    "prompt": "What can facilites do to support teens on ART?",
+    "completion": "To promote long-term adherence and viral suppression, all facilities must have Teen Clubs. Facilities should also have dedicated days for children, especially those that are failing treatment "
+}
+{
+    "prompt": "Who should be screened for non-communicable diseases?",
+    "completion": "All clients infected with HIV should be routinely screened for cardiovascular risk factors, non-communicable diseases and mental health at enrolment and in subsequent visits. "
+}
+{
+    "prompt": "When should blood pressure monitoring be done?",
+    "completion": "Blood pressure should be monitored at every clinical visit. "
+}
+{
+    "prompt": "What should one consider when managing HIV patients with hypertension?",
+    "completion": "Calcium channel inhibitors should be used with caution as they may interact with PIs producing increased serum levels of the former. Therefore, dose titration and ECG monitoring are required. Caution should also be exercised when combining diuretics with TDF by monitoring renal function that could be impaired due to added risk for interstitial nephritis. "
+}
+{
+    "prompt": "When and how should aspirin to lower cardiovascular risk be used?",
+    "completion": "A low-dose, enteric-coated aspirin 100 mg/day may be prescribed to reduce the risk of cardiovascular morbidity and mortality. Aspirin initiation should only be initiated by a doctor led service, following careful assessment of risk. "
+}
+{
+    "prompt": "How to screen for diabetes mellitus in HIV positive patients?",
+    "completion": "Annual symptom screening for diabetes mellitus and random blood sugar testing is recommended for establishing diagnosis of diabetes among PLHIV. "
+}
+{
+    "prompt": "When should patients on ART be screend for depression?",
+    "completion": "A high prevalence of depression is reported among PLHIV compared to the general population. Clients should be screened for depression using the PHQ9 assessment tool at initiation and every 6 months thereafter. "
+}
