@@ -61,3 +61,69 @@ and key population."
 worker using the national recommended 4 symptom TB screening tool including children and 
 adolescents. Presumptive TB is defined as a patient reporting any one of the TB for symptoms."
 }
+{
+    "prompt": "What should one do if they have a newly diagnosed HIV positive patient symptomatic of TB.",
+    "completion": "For PLHIV with presumptive TB, offer rapid ART initiation while rapidly investigating for TB, with 
+close follow-up within 7 days to initiate TB treatment if TB is confirmed. "
+}
+{
+    "prompt": "What is the recommended TB test?",
+    "completion": "X-pert MTB/RIF is a recommended TB diagnostic test and TB LF LAM is recommended diagnostic 
+TB test for selected groups among PLHIV."
+}
+{
+    "prompt": "What is the role of C-reactive protein in TB screening?", 
+    "completion": "C-Reactive Protein should be used for ART naïve patients as an additional TB screening tool. "
+}
+{
+    "prompt": "Can TB and ART be initiated at the same time?",
+    "completion": "TB initiation may be considered at ART initiation in patients without advanced HIV disease (clinically well) "
+}
+{
+    "prompt": "Can rifepentine/Isoniazid be used for TB preventive therapy?", 
+    "completion": "3 months of Rifapentine/Isoniazid (3HP) is the recommended TPT option except in pregnant 
+and lactating women and children."
+}
+{
+    "prompt": "When should Antiretroviral Therapy (ART) be delayed?",
+    "completion": "Delay ART initiation for PLHIV with TB meningitis, Cryptococcal meningitis or Histoplasmosis."
+}
+{
+    "prompt": "When can patients with TB and HIV be started on Antiretroviral Therapy (ART)?",
+    "completion": "For TB patients other than TB meningitis, who are diagnosed with HIV, ART initiation should be 
+started as soon as possible, preferably within 14 days of initiating TB treatment. "
+}
+{
+    "prompt": "Who should be screened for cryptococcal antigemia?",
+    "completion": "Advanced HIV disease patients with CD4 cell counts < 100 cells/mm³ should be screened for Cryptococcal 
+Antigenemia "
+}
+{
+    "prompt": "What is advanced HIV disease in children?",
+    "completion": "All children younger than 5 years who are not already receiving ART and clinically stable) are 
+considered to have advanced HIV disease. Children who have been receiving ART for more than 
+one year and are established on ART, and older than 2 years should not be considered to have 
+AHD and are eligible for MMD."
+}
+{
+    "prompt": "What is recommended test for cryptococcal meningitis",
+    "completion": "Cerebro Spinal Fluid (CSF) CrAg is recommended for diagnosis of Cryptococcal meningitis "
+}
+{
+    "prompt": "Can single dose liposomal amphotericin B be used in the induction phase of cryptococcal meningitis treatment?",
+    "completion": "Single dose Liposomal Amphotericin B is recommended for the induction phase of cryptococcal 
+meningitis treatment "
+}
+{
+    "prompt": "Should patients with advanced HIV be screened for histoplamosis?",
+    "completion": "Histoplasmosis screening and treatment are recommended for patients with AHD and 
+symptomatic histoplasmosis."
+}
+{
+    "prompt": "When should Fluconazole prophylaxis be stopped?",
+    "completion": "Fluconazole prophylaxis may be discontinued after 12 months of antifungals once the CD4 count 
+is >100 cells/mm³ and virally suppressed"
+}
+{
+    
+}
