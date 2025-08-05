@@ -1,8 +1,63 @@
 {
-    "prompt": "",
-    "completion": ""
+    "prompt": "What major changes were made to the 2022 HIV Guidelines in Eswatini for HIV prevention. ",
+    "completion": "Change of terminology from serodiscordant to sero-different couples. Event-driven oral TDF-based ED-PrEP as a 2+1+1 regimen can be offered to HIV-negative clients assigned male at birth (and not on exogenous hormones) as an alternative dosing schedule from daily oral PrEP to prevent HIV transmission from sexual exposure. The Dapivirine ring may be offered as an additional prevention choice for cis-gender women at substantial risk of HIV as part of a combination prevention approach.  An HIV post-exposure prophylaxis (PEP) regimen with three drugs is preferred for all persons accidentally, occupationally, sexually or otherwise exposed to HIV. DTG is recommended as the preferred third drug for HIV PEP. When available, ATV/r, DRV/r, LPV/r and RAL may be considered as alternative third drug options for PEP in adults."
 }
 {
-    "prompt": "",
-    "completion": ""
+    "prompt": "What are the recommendetions for HIV testing?",
+    "completion": "HIV testing services should be offered to all clients with unknown HIV status at every point of 
+contact in the health facility and community settings. The HIV testing screening tool will be used to determine how often a client with a previous HIV
+negative result will need to be re-tested for HIV. Client-initiated HIV testing services and provider-initiated HIV testing services are two 
+approaches to be used at the entry point to HIV prevention, care, and treatment services. Targeted testing, including index testing (testing the family members and sexual partners of 
+people diagnosed with HIV) and social network testing (testing the sexual partners and peers of 
+HIV-positive key populations), are the preferred methods of testing. To encourage contacts of index clients with unknown HIV status to be tested, every HIV-positive 
+client will be given information on client notification options, either through passive referral or 
+assisted HIV partner notification services. HIV Self-test kits/Oraquick can be distributed at the health facility level and performed privately 
+in the client’s home or facilitated by a healthcare worker in a private setting at a health facility. 
+The age of consent for HIVST is 16 years. All HIV tests conducted must follow the National HIV Testing Algorithm for children and adults. 
+Referral and linkages to prevention or care and treatment services should be provided to both 
+negative and positive clients, respectively.Rapid tests (Determine™ and UniGold™) are antibody tests that can be used to definitively 
+diagnose adults and children aged 18 months or older. DNA PCR is used to diagnose children 
+less than 18 months of age and for inconclusive results according to the National HIV Testing 
+Algorithm. Retesting for verification - all clients with positive HIV results presenting for ART initiation 
+should be re-tested, with a second specimen, preferably with a different tester, before ART 
+initiation. DNA PCR has replaced Clearview tests as the tie breaker for inconclusive results when testing 
+for HIV. "
+}
+{
+    "prompt": " What are the HIV guideline recommendations for Referral and linkages?",
+    "completion": "All clients testing HIV positive must be proactively linked (escort client or set an appointment) 
+for ART initiation.  Health care worker who identifies the HIV-positive client should ensure linkage of the client.  All clients with positive HIV results presenting for ART initiation should be re-tested before they 
+are initiated on ART preferably by a different tester. All people living with HIV are eligible to start ART regardless of CD4 count or WHO staging to 
+promote early ART initiation. Newly diagnosed HIV clients should be checked in the CMIS if they are genuinely new positive 
+before they are linked for treatment. All clients newly initiated on ART must be enrolled on enhanced counselling to support their 
+adherence and retention. All clients found to be returning to care must be linked back to care as indicated in the extended 
+LCM SOP. All clients testing HIV-negative should be linked to combination HIV prevention services. Combination HIV prevention is an approach that seeks to achieve maximum impact on 
+preventing new HIV infections. Bidirectional communication between facilities and communities is important to improve HIV 
+linkages either to prevention or care and treatment. Active tracing of clients who have disengaged from care must be routinely done for all clients."
+}
+{
+    "prompt": "What is the basic care package for HIV positive individuals?",
+    "completion": "ART initiation may be offered in the community for clients who have mild or moderate 
+immunosuppression and no current or previous history of clinical, immunologic or virologic 
+treatment failure. For clients who initiate ART with a baseline CD4 count >350cell/mm³, and show good clinical 
+response, there is no value added by doing a follow-up CD4 count at 6 months. For clients who initiate ART with a CD4 count <350cell/mm³, CD4 monitoring should be done by 
+6 months and 12 months after ART initiation. Once the client has 2 consecutive undetectable 
+viral loads, CD4 monitoring can be stopped. If treatment failure is suspected, resume CD4 
+monitoring until the client has an undetectable viral load. After one year on ART, clinically well adult clients can receive ART refills every 3-6 months, and 
+clinical assessments every 6 months. Children who have been receiving ART for more than one year and are established on ART, and 
+older than 2 years should not be considered to have AHD and are eligible for MMD. The basic HIV chronic care package includes routine screening and management of non
+communicable diseases, mental health and palliative care services as well as assessment of and 
+offering of COVID-19 vaccination. Less intensive (up to 3MMD) differentiated service delivery may also be offered to children at 
+least 2 years of age, pregnant and breastfeeding women, clients with controlled comorbidities 
+and key population."
+}
+{
+    "prompt": "What does the abbreviation PLHIV stand for?",
+    "completion": "People Living with HIV"
+}
+{
+    "prompt": "When should TB screening be done for people living with HIV?",
+    "completion": "TB screening should be done for all PLHIV at every health care visit of contact with a healthcare 
+worker using the national recommended 4 symptom TB screening tool including children and 
+adolescents. Presumptive TB is defined as a patient reporting any one of the TB for symptoms."
 }
