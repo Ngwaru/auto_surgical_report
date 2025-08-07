@@ -286,3 +286,7 @@
     "prompt": "When should patients on ART be screend for depression?",
     "completion": "A high prevalence of depression is reported among PLHIV compared to the general population. Clients should be screened for depression using the PHQ9 assessment tool at initiation and every 6 months thereafter. "
 }
+{
+    "prompt": "",
+    "completion": ""
+}
